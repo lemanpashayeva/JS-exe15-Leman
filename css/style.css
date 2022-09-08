@@ -1,0 +1,26 @@
+body{
+    background-image: url(background-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+input{
+    display: block;
+    margin: auto;
+    margin-top: 300px;
+    background-color: darksalmon;
+    border: 5px dashed darkkhaki;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+button{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    background-color: darksalmon;
+    border: 5px dashed darkkhaki;
+    border-radius: 15px;
+    padding: 7px;
+}
